@@ -15,6 +15,35 @@
 		1A8FE4D0201877220032D1D3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE4CF201877220032D1D3 /* main.m */; };
 		1A8FE4DA201877220032D1D3 /* WCTTabBarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE4D9201877220032D1D3 /* WCTTabBarTests.m */; };
 		1A8FE4E5201877220032D1D3 /* WCTTabBarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE4E4201877220032D1D3 /* WCTTabBarUITests.m */; };
+		1A8FE4FE2018894B0032D1D3 /* CYCenterButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE4F62018894B0032D1D3 /* CYCenterButton.m */; };
+		1A8FE4FF2018894B0032D1D3 /* CYTabBarConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE4F72018894B0032D1D3 /* CYTabBarConfig.m */; };
+		1A8FE5002018894B0032D1D3 /* CYTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE4F82018894B0032D1D3 /* CYTabBar.m */; };
+		1A8FE5012018894B0032D1D3 /* CYButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE4F92018894B0032D1D3 /* CYButton.m */; };
+		1A8FE52120188BC70032D1D3 /* UIButton+CustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50320188BC60032D1D3 /* UIButton+CustomButton.m */; };
+		1A8FE52220188BC70032D1D3 /* UITextView+InputLimit.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50420188BC60032D1D3 /* UITextView+InputLimit.m */; };
+		1A8FE52320188BC70032D1D3 /* UILabel+CustomLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50720188BC70032D1D3 /* UILabel+CustomLabel.m */; };
+		1A8FE52420188BC70032D1D3 /* UIView+Border.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50820188BC70032D1D3 /* UIView+Border.m */; };
+		1A8FE52520188BC70032D1D3 /* UIScrollView+ScalableCover.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50A20188BC70032D1D3 /* UIScrollView+ScalableCover.m */; };
+		1A8FE52620188BC70032D1D3 /* UIImage+ChangeTint.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50B20188BC70032D1D3 /* UIImage+ChangeTint.m */; };
+		1A8FE52720188BC70032D1D3 /* UITextField+CustomTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50C20188BC70032D1D3 /* UITextField+CustomTextField.m */; };
+		1A8FE52820188BC70032D1D3 /* UITextField+InputLimit.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50D20188BC70032D1D3 /* UITextField+InputLimit.m */; };
+		1A8FE52920188BC70032D1D3 /* UITextView+Placeholder.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE50E20188BC70032D1D3 /* UITextView+Placeholder.m */; };
+		1A8FE52A20188BC70032D1D3 /* UIViewController+Message.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE51120188BC70032D1D3 /* UIViewController+Message.m */; };
+		1A8FE52B20188BC70032D1D3 /* NSString+Common.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE51220188BC70032D1D3 /* NSString+Common.m */; };
+		1A8FE52C20188BC70032D1D3 /* UITableView+SeparatorInsetEdge.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE51420188BC70032D1D3 /* UITableView+SeparatorInsetEdge.m */; };
+		1A8FE52D20188BC70032D1D3 /* UIImage+ImageWithColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE51620188BC70032D1D3 /* UIImage+ImageWithColor.m */; };
+		1A8FE52E20188BC70032D1D3 /* UIButton+TouchAreaInsets.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE51C20188BC70032D1D3 /* UIButton+TouchAreaInsets.m */; };
+		1A8FE52F20188BC70032D1D3 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE52020188BC70032D1D3 /* UIView+Extension.m */; };
+		1A8FE534201891430032D1D3 /* KMMTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE533201891430032D1D3 /* KMMTabBarController.m */; };
+		1A8FE537201891630032D1D3 /* KMMTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE535201891630032D1D3 /* KMMTabBar.m */; };
+		1A8FE53A201891AE0032D1D3 /* KMMArcView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A8FE539201891AE0032D1D3 /* KMMArcView.m */; };
+		1AE3A39E2019D2B6000D5F96 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AE3A39D2019D2B6000D5F96 /* FirstViewController.m */; };
+		1AE3A3A12019D2BF000D5F96 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AE3A3A02019D2BF000D5F96 /* SecondViewController.m */; };
+		1AE3A3A42019D2C9000D5F96 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AE3A3A32019D2C9000D5F96 /* ThirdViewController.m */; };
+		1AE3A3A72019DA68000D5F96 /* KMMHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AE3A3A62019DA68000D5F96 /* KMMHomeViewController.m */; };
+		1AE3A3AA2019DA79000D5F96 /* KMMTempController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AE3A3A92019DA79000D5F96 /* KMMTempController.m */; };
+		1AE3A3AD2019DAA5000D5F96 /* KMMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AE3A3AC2019DAA5000D5F96 /* KMMeViewController.m */; };
+		C5AEB605BC713244DAA098F3 /* libPods-WCTTabBar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A7898AA940D35FA2F158DDD /* libPods-WCTTabBar.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +64,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		14FF3D5BD70A8574B8104123 /* Pods-WCTTabBar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WCTTabBar.release.xcconfig"; path = "Pods/Target Support Files/Pods-WCTTabBar/Pods-WCTTabBar.release.xcconfig"; sourceTree = "<group>"; };
 		1A8FE4BD201877220032D1D3 /* WCTTabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WCTTabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A8FE4C0201877220032D1D3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1A8FE4C1201877220032D1D3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +81,65 @@
 		1A8FE4E0201877220032D1D3 /* WCTTabBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WCTTabBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A8FE4E4201877220032D1D3 /* WCTTabBarUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WCTTabBarUITests.m; sourceTree = "<group>"; };
 		1A8FE4E6201877220032D1D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A8FE4F62018894B0032D1D3 /* CYCenterButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYCenterButton.m; sourceTree = "<group>"; };
+		1A8FE4F72018894B0032D1D3 /* CYTabBarConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYTabBarConfig.m; sourceTree = "<group>"; };
+		1A8FE4F82018894B0032D1D3 /* CYTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYTabBar.m; sourceTree = "<group>"; };
+		1A8FE4F92018894B0032D1D3 /* CYButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYButton.m; sourceTree = "<group>"; };
+		1A8FE4FA2018894B0032D1D3 /* CYCenterButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYCenterButton.h; sourceTree = "<group>"; };
+		1A8FE4FB2018894B0032D1D3 /* CYButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYButton.h; sourceTree = "<group>"; };
+		1A8FE4FC2018894B0032D1D3 /* CYTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYTabBar.h; sourceTree = "<group>"; };
+		1A8FE4FD2018894B0032D1D3 /* CYTabBarConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYTabBarConfig.h; sourceTree = "<group>"; };
+		1A8FE50320188BC60032D1D3 /* UIButton+CustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+CustomButton.m"; sourceTree = "<group>"; };
+		1A8FE50420188BC60032D1D3 /* UITextView+InputLimit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextView+InputLimit.m"; sourceTree = "<group>"; };
+		1A8FE50520188BC70032D1D3 /* UITableView+SeparatorInsetEdge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+SeparatorInsetEdge.h"; sourceTree = "<group>"; };
+		1A8FE50620188BC70032D1D3 /* NSString+Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Common.h"; sourceTree = "<group>"; };
+		1A8FE50720188BC70032D1D3 /* UILabel+CustomLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+CustomLabel.m"; sourceTree = "<group>"; };
+		1A8FE50820188BC70032D1D3 /* UIView+Border.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Border.m"; sourceTree = "<group>"; };
+		1A8FE50920188BC70032D1D3 /* UIButton+TouchAreaInsets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+TouchAreaInsets.h"; sourceTree = "<group>"; };
+		1A8FE50A20188BC70032D1D3 /* UIScrollView+ScalableCover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+ScalableCover.m"; sourceTree = "<group>"; };
+		1A8FE50B20188BC70032D1D3 /* UIImage+ChangeTint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ChangeTint.m"; sourceTree = "<group>"; };
+		1A8FE50C20188BC70032D1D3 /* UITextField+CustomTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+CustomTextField.m"; sourceTree = "<group>"; };
+		1A8FE50D20188BC70032D1D3 /* UITextField+InputLimit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+InputLimit.m"; sourceTree = "<group>"; };
+		1A8FE50E20188BC70032D1D3 /* UITextView+Placeholder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextView+Placeholder.m"; sourceTree = "<group>"; };
+		1A8FE50F20188BC70032D1D3 /* UIImage+ImageWithColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageWithColor.h"; sourceTree = "<group>"; };
+		1A8FE51020188BC70032D1D3 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		1A8FE51120188BC70032D1D3 /* UIViewController+Message.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Message.m"; sourceTree = "<group>"; };
+		1A8FE51220188BC70032D1D3 /* NSString+Common.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Common.m"; sourceTree = "<group>"; };
+		1A8FE51320188BC70032D1D3 /* UITextView+InputLimit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextView+InputLimit.h"; sourceTree = "<group>"; };
+		1A8FE51420188BC70032D1D3 /* UITableView+SeparatorInsetEdge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+SeparatorInsetEdge.m"; sourceTree = "<group>"; };
+		1A8FE51520188BC70032D1D3 /* UIButton+CustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+CustomButton.h"; sourceTree = "<group>"; };
+		1A8FE51620188BC70032D1D3 /* UIImage+ImageWithColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageWithColor.m"; sourceTree = "<group>"; };
+		1A8FE51720188BC70032D1D3 /* UITextView+Placeholder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextView+Placeholder.h"; sourceTree = "<group>"; };
+		1A8FE51820188BC70032D1D3 /* UITextField+InputLimit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+InputLimit.h"; sourceTree = "<group>"; };
+		1A8FE51920188BC70032D1D3 /* UITextField+CustomTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+CustomTextField.h"; sourceTree = "<group>"; };
+		1A8FE51A20188BC70032D1D3 /* UIScrollView+ScalableCover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+ScalableCover.h"; sourceTree = "<group>"; };
+		1A8FE51B20188BC70032D1D3 /* UIImage+ChangeTint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ChangeTint.h"; sourceTree = "<group>"; };
+		1A8FE51C20188BC70032D1D3 /* UIButton+TouchAreaInsets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+TouchAreaInsets.m"; sourceTree = "<group>"; };
+		1A8FE51D20188BC70032D1D3 /* UIView+Border.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Border.h"; sourceTree = "<group>"; };
+		1A8FE51E20188BC70032D1D3 /* UILabel+CustomLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+CustomLabel.h"; sourceTree = "<group>"; };
+		1A8FE51F20188BC70032D1D3 /* UIViewController+Message.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Message.h"; sourceTree = "<group>"; };
+		1A8FE52020188BC70032D1D3 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		1A8FE53120188F730032D1D3 /* Main.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Main.pch; sourceTree = "<group>"; };
+		1A8FE532201891430032D1D3 /* KMMTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KMMTabBarController.h; sourceTree = "<group>"; };
+		1A8FE533201891430032D1D3 /* KMMTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KMMTabBarController.m; sourceTree = "<group>"; };
+		1A8FE535201891630032D1D3 /* KMMTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KMMTabBar.m; sourceTree = "<group>"; };
+		1A8FE536201891630032D1D3 /* KMMTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KMMTabBar.h; sourceTree = "<group>"; };
+		1A8FE538201891AE0032D1D3 /* KMMArcView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KMMArcView.h; sourceTree = "<group>"; };
+		1A8FE539201891AE0032D1D3 /* KMMArcView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KMMArcView.m; sourceTree = "<group>"; };
+		1AE3A39C2019D2B6000D5F96 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		1AE3A39D2019D2B6000D5F96 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		1AE3A39F2019D2BF000D5F96 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		1AE3A3A02019D2BF000D5F96 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		1AE3A3A22019D2C9000D5F96 /* ThirdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		1AE3A3A32019D2C9000D5F96 /* ThirdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		1AE3A3A52019DA68000D5F96 /* KMMHomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KMMHomeViewController.h; sourceTree = "<group>"; };
+		1AE3A3A62019DA68000D5F96 /* KMMHomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KMMHomeViewController.m; sourceTree = "<group>"; };
+		1AE3A3A82019DA79000D5F96 /* KMMTempController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KMMTempController.h; sourceTree = "<group>"; };
+		1AE3A3A92019DA79000D5F96 /* KMMTempController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KMMTempController.m; sourceTree = "<group>"; };
+		1AE3A3AB2019DAA5000D5F96 /* KMMeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KMMeViewController.h; sourceTree = "<group>"; };
+		1AE3A3AC2019DAA5000D5F96 /* KMMeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KMMeViewController.m; sourceTree = "<group>"; };
+		5A7898AA940D35FA2F158DDD /* libPods-WCTTabBar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WCTTabBar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A112C72184CEBF0AE52C0AF4 /* Pods-WCTTabBar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WCTTabBar.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WCTTabBar/Pods-WCTTabBar.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +147,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5AEB605BC713244DAA098F3 /* libPods-WCTTabBar.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +175,8 @@
 				1A8FE4D8201877220032D1D3 /* WCTTabBarTests */,
 				1A8FE4E3201877220032D1D3 /* WCTTabBarUITests */,
 				1A8FE4BE201877220032D1D3 /* Products */,
+				F311FCBDFED63EB987996936 /* Pods */,
+				206A61CC8BE3D8BB61F987DD /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,11 +197,27 @@
 				1A8FE4C1201877220032D1D3 /* AppDelegate.m */,
 				1A8FE4C3201877220032D1D3 /* ViewController.h */,
 				1A8FE4C4201877220032D1D3 /* ViewController.m */,
+				1AE3A39F2019D2BF000D5F96 /* SecondViewController.h */,
+				1AE3A3A02019D2BF000D5F96 /* SecondViewController.m */,
+				1AE3A39C2019D2B6000D5F96 /* FirstViewController.h */,
+				1AE3A39D2019D2B6000D5F96 /* FirstViewController.m */,
+				1AE3A3A22019D2C9000D5F96 /* ThirdViewController.h */,
+				1AE3A3A32019D2C9000D5F96 /* ThirdViewController.m */,
+				1AE3A3A52019DA68000D5F96 /* KMMHomeViewController.h */,
+				1AE3A3A62019DA68000D5F96 /* KMMHomeViewController.m */,
+				1AE3A3A82019DA79000D5F96 /* KMMTempController.h */,
+				1AE3A3A92019DA79000D5F96 /* KMMTempController.m */,
+				1AE3A3AB2019DAA5000D5F96 /* KMMeViewController.h */,
+				1AE3A3AC2019DAA5000D5F96 /* KMMeViewController.m */,
+				1AE3A39B2019D284000D5F96 /* TabBar */,
+				1A8FE50220188BC60032D1D3 /* UICategory */,
+				1A8FE4F52018894B0032D1D3 /* tabbar */,
 				1A8FE4C6201877220032D1D3 /* Main.storyboard */,
 				1A8FE4C9201877220032D1D3 /* Assets.xcassets */,
 				1A8FE4CB201877220032D1D3 /* LaunchScreen.storyboard */,
 				1A8FE4CE201877220032D1D3 /* Info.plist */,
 				1A8FE4CF201877220032D1D3 /* main.m */,
+				1A8FE53120188F730032D1D3 /* Main.pch */,
 			);
 			path = WCTTabBar;
 			sourceTree = "<group>";
@@ -132,6 +240,88 @@
 			path = WCTTabBarUITests;
 			sourceTree = "<group>";
 		};
+		1A8FE4F52018894B0032D1D3 /* tabbar */ = {
+			isa = PBXGroup;
+			children = (
+				1A8FE4FA2018894B0032D1D3 /* CYCenterButton.h */,
+				1A8FE4F62018894B0032D1D3 /* CYCenterButton.m */,
+				1A8FE4FD2018894B0032D1D3 /* CYTabBarConfig.h */,
+				1A8FE4F72018894B0032D1D3 /* CYTabBarConfig.m */,
+				1A8FE4FC2018894B0032D1D3 /* CYTabBar.h */,
+				1A8FE4F82018894B0032D1D3 /* CYTabBar.m */,
+				1A8FE4FB2018894B0032D1D3 /* CYButton.h */,
+				1A8FE4F92018894B0032D1D3 /* CYButton.m */,
+			);
+			path = tabbar;
+			sourceTree = "<group>";
+		};
+		1A8FE50220188BC60032D1D3 /* UICategory */ = {
+			isa = PBXGroup;
+			children = (
+				1A8FE50320188BC60032D1D3 /* UIButton+CustomButton.m */,
+				1A8FE50420188BC60032D1D3 /* UITextView+InputLimit.m */,
+				1A8FE50520188BC70032D1D3 /* UITableView+SeparatorInsetEdge.h */,
+				1A8FE50620188BC70032D1D3 /* NSString+Common.h */,
+				1A8FE50720188BC70032D1D3 /* UILabel+CustomLabel.m */,
+				1A8FE50820188BC70032D1D3 /* UIView+Border.m */,
+				1A8FE50920188BC70032D1D3 /* UIButton+TouchAreaInsets.h */,
+				1A8FE50A20188BC70032D1D3 /* UIScrollView+ScalableCover.m */,
+				1A8FE50B20188BC70032D1D3 /* UIImage+ChangeTint.m */,
+				1A8FE50C20188BC70032D1D3 /* UITextField+CustomTextField.m */,
+				1A8FE50D20188BC70032D1D3 /* UITextField+InputLimit.m */,
+				1A8FE50E20188BC70032D1D3 /* UITextView+Placeholder.m */,
+				1A8FE50F20188BC70032D1D3 /* UIImage+ImageWithColor.h */,
+				1A8FE51020188BC70032D1D3 /* UIView+Extension.h */,
+				1A8FE51120188BC70032D1D3 /* UIViewController+Message.m */,
+				1A8FE51220188BC70032D1D3 /* NSString+Common.m */,
+				1A8FE51320188BC70032D1D3 /* UITextView+InputLimit.h */,
+				1A8FE51420188BC70032D1D3 /* UITableView+SeparatorInsetEdge.m */,
+				1A8FE51520188BC70032D1D3 /* UIButton+CustomButton.h */,
+				1A8FE51620188BC70032D1D3 /* UIImage+ImageWithColor.m */,
+				1A8FE51720188BC70032D1D3 /* UITextView+Placeholder.h */,
+				1A8FE51820188BC70032D1D3 /* UITextField+InputLimit.h */,
+				1A8FE51920188BC70032D1D3 /* UITextField+CustomTextField.h */,
+				1A8FE51A20188BC70032D1D3 /* UIScrollView+ScalableCover.h */,
+				1A8FE51B20188BC70032D1D3 /* UIImage+ChangeTint.h */,
+				1A8FE51C20188BC70032D1D3 /* UIButton+TouchAreaInsets.m */,
+				1A8FE51D20188BC70032D1D3 /* UIView+Border.h */,
+				1A8FE51E20188BC70032D1D3 /* UILabel+CustomLabel.h */,
+				1A8FE51F20188BC70032D1D3 /* UIViewController+Message.h */,
+				1A8FE52020188BC70032D1D3 /* UIView+Extension.m */,
+			);
+			path = UICategory;
+			sourceTree = "<group>";
+		};
+		1AE3A39B2019D284000D5F96 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				1A8FE538201891AE0032D1D3 /* KMMArcView.h */,
+				1A8FE539201891AE0032D1D3 /* KMMArcView.m */,
+				1A8FE532201891430032D1D3 /* KMMTabBarController.h */,
+				1A8FE533201891430032D1D3 /* KMMTabBarController.m */,
+				1A8FE536201891630032D1D3 /* KMMTabBar.h */,
+				1A8FE535201891630032D1D3 /* KMMTabBar.m */,
+			);
+			path = TabBar;
+			sourceTree = SOURCE_ROOT;
+		};
+		206A61CC8BE3D8BB61F987DD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5A7898AA940D35FA2F158DDD /* libPods-WCTTabBar.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F311FCBDFED63EB987996936 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A112C72184CEBF0AE52C0AF4 /* Pods-WCTTabBar.debug.xcconfig */,
+				14FF3D5BD70A8574B8104123 /* Pods-WCTTabBar.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,9 +329,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1A8FE4E9201877220032D1D3 /* Build configuration list for PBXNativeTarget "WCTTabBar" */;
 			buildPhases = (
+				A5C40B0CEF750851959FA832 /* [CP] Check Pods Manifest.lock */,
 				1A8FE4B9201877220032D1D3 /* Sources */,
 				1A8FE4BA201877220032D1D3 /* Frameworks */,
 				1A8FE4BB201877220032D1D3 /* Resources */,
+				1C4C790E8F1920AB20648343 /* [CP] Embed Pods Frameworks */,
+				2860D883E884CB52C3495815 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -260,14 +453,93 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1C4C790E8F1920AB20648343 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WCTTabBar/Pods-WCTTabBar-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2860D883E884CB52C3495815 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WCTTabBar/Pods-WCTTabBar-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A5C40B0CEF750851959FA832 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WCTTabBar-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		1A8FE4B9201877220032D1D3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A8FE52C20188BC70032D1D3 /* UITableView+SeparatorInsetEdge.m in Sources */,
+				1A8FE52520188BC70032D1D3 /* UIScrollView+ScalableCover.m in Sources */,
+				1A8FE537201891630032D1D3 /* KMMTabBar.m in Sources */,
+				1A8FE52B20188BC70032D1D3 /* NSString+Common.m in Sources */,
+				1A8FE52420188BC70032D1D3 /* UIView+Border.m in Sources */,
+				1AE3A3AA2019DA79000D5F96 /* KMMTempController.m in Sources */,
+				1A8FE52220188BC70032D1D3 /* UITextView+InputLimit.m in Sources */,
+				1AE3A3A42019D2C9000D5F96 /* ThirdViewController.m in Sources */,
+				1AE3A3A72019DA68000D5F96 /* KMMHomeViewController.m in Sources */,
 				1A8FE4C5201877220032D1D3 /* ViewController.m in Sources */,
+				1AE3A39E2019D2B6000D5F96 /* FirstViewController.m in Sources */,
+				1A8FE52820188BC70032D1D3 /* UITextField+InputLimit.m in Sources */,
+				1A8FE52920188BC70032D1D3 /* UITextView+Placeholder.m in Sources */,
+				1A8FE52E20188BC70032D1D3 /* UIButton+TouchAreaInsets.m in Sources */,
+				1A8FE52120188BC70032D1D3 /* UIButton+CustomButton.m in Sources */,
 				1A8FE4D0201877220032D1D3 /* main.m in Sources */,
+				1A8FE52720188BC70032D1D3 /* UITextField+CustomTextField.m in Sources */,
+				1A8FE5002018894B0032D1D3 /* CYTabBar.m in Sources */,
+				1A8FE534201891430032D1D3 /* KMMTabBarController.m in Sources */,
+				1A8FE52320188BC70032D1D3 /* UILabel+CustomLabel.m in Sources */,
 				1A8FE4C2201877220032D1D3 /* AppDelegate.m in Sources */,
+				1AE3A3A12019D2BF000D5F96 /* SecondViewController.m in Sources */,
+				1A8FE52620188BC70032D1D3 /* UIImage+ChangeTint.m in Sources */,
+				1A8FE52D20188BC70032D1D3 /* UIImage+ImageWithColor.m in Sources */,
+				1AE3A3AD2019DAA5000D5F96 /* KMMeViewController.m in Sources */,
+				1A8FE52A20188BC70032D1D3 /* UIViewController+Message.m in Sources */,
+				1A8FE53A201891AE0032D1D3 /* KMMArcView.m in Sources */,
+				1A8FE52F20188BC70032D1D3 /* UIView+Extension.m in Sources */,
+				1A8FE5012018894B0032D1D3 /* CYButton.m in Sources */,
+				1A8FE4FE2018894B0032D1D3 /* CYCenterButton.m in Sources */,
+				1A8FE4FF2018894B0032D1D3 /* CYTabBarConfig.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,6 +632,8 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = /Users/wct/Desktop/WCTTabBar/WCTTabBar/Main.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -370,7 +644,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -413,13 +687,15 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = /Users/wct/Desktop/WCTTabBar/WCTTabBar/Main.pch;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -428,27 +704,35 @@
 		};
 		1A8FE4EA201877220032D1D3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A112C72184CEBF0AE52C0AF4 /* Pods-WCTTabBar.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = /Users/wct/Desktop/WCTTabBar/WCTTabBar/Main.pch;
 				INFOPLIST_FILE = WCTTabBar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KM.WCTTabBar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(PODS_ROOT)/**";
 			};
 			name = Debug;
 		};
 		1A8FE4EB201877220032D1D3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 14FF3D5BD70A8574B8104123 /* Pods-WCTTabBar.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = /Users/wct/Desktop/WCTTabBar/WCTTabBar/Main.pch;
 				INFOPLIST_FILE = WCTTabBar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KM.WCTTabBar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(PODS_ROOT)/**";
 			};
 			name = Release;
 		};
